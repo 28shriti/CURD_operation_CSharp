@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURD", "CURD.csproj", "{67DCF0BA-5841-4351-8B0C-8A4ADE0A38CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DCF0BA-5841-4351-8B0C-8A4ADE0A38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DCF0BA-5841-4351-8B0C-8A4ADE0A38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DCF0BA-5841-4351-8B0C-8A4ADE0A38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DCF0BA-5841-4351-8B0C-8A4ADE0A38CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9008585D-7EC4-4431-8BF4-ABB9A60A62B9}
+	EndGlobalSection
+EndGlobal
